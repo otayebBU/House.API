@@ -144,5 +144,3 @@ def delete_device(device_id: str):
 
 # endpoint (endpoint is one end of a communication channel )
 
-
-
